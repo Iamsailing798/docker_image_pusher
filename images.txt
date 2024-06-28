@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-seataio/seata-server
+seataio/seata-server:2.0.0-slim
