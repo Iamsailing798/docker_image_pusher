@@ -7,4 +7,5 @@
 
 seataio/seata-server:1.6.0
 rabbitmq:3.8-management
+mysql
 
