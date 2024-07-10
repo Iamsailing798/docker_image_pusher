@@ -8,4 +8,4 @@
 seataio/seata-server:1.6.0
 rabbitmq:3.8-management
 mysql
-nacos/nacos-server:v2.1.0-slim
+nacos/nacos-server
