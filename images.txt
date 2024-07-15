@@ -11,3 +11,4 @@ mysql
 nacos/nacos-server
 elasticsearch:7.12.1
 kibana:7.12.1
+redis
